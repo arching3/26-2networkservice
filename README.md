@@ -1,2 +1,2 @@
 # 26-2networkservice
-unix system only
+linux system only
